@@ -22,7 +22,7 @@
     "url": "https://github.com/TheTrunk/bitcore-message-zelcash.git"
   },
   "dependencies": {
-    "bitcore-lib-zelcash": "git://github.com/TheTrunk/bitcore-lib-zelcash#master"
+    "bitcore-lib-zelcash": "git://github.com/TheTrunk/bitcore-lib-zelcash#safecoin"
   },
   "devDependencies": {
     "bitcore-build-zelcash": "git://github.com/TheTrunk/bitcore-build-zelcash#master",
