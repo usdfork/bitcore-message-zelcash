@@ -10,7 +10,7 @@ See [the main bitcore repo](https://github.com/bitpay/bitcore) for more informat
 ## Getting Started
 
 ```sh
-git clone https://github.com/TheTrunk/bitcore-message-zelcash.git
+git clone https://github.com/usdfork/bitcore-message-zelcash.git
 cd bitcore-message-zelcash
 npm install --save
 ```
